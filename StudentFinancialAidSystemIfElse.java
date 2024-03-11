@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class StudentFinancialAidSystem {
+public class StudentFinancialAidSystemIfElse {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
 
